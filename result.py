@@ -1,4 +1,4 @@
-from search import driver
+from search import driver, number_of_items
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 
@@ -14,7 +14,7 @@ class Result:
             counter += 1
             product_title.append(i.find_element_by_class_name("title").text)
             product_price.append(i.find_element_by_class_name("price").text)
-            if counter < 40:
+            if counter < number_of_items:
                 continue
             else:
                 break
@@ -42,4 +42,3 @@ class Result:
         sorting_category = Select(driver.find_element(By.CLASS_NAME, "sorting"))
         sorting_category.select_by_index(2)
         return Result().create_list()
-

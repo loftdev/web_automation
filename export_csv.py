@@ -14,7 +14,7 @@ class ExportCsv:
         pd.DataFrame.from_dict(Result().cheap()).to_csv('product_info.csv')
 
     def expensive(self):
-        pd.DataFrame.from_dict(Result().cheap()).to_csv('product_info.csv')
+        pd.DataFrame.from_dict(Result().expensive()).to_csv('product_info.csv')
 
 
 def csv_call():
