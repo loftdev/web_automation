@@ -8,4 +8,19 @@ Instruction
 1. Enter any keyword that you want to seach.
 2. Web automation will do the search on Rakuten.
 3. You can also categorize your search by Price from highest-lowest, lowest-highest, or by the highest ranking of costumer review.
-5. The program will show the top 50 results.
+4. Select export to CSV, Excel, HTML.
+5. Select the list of result from 1-40
+6. Select the resut Title of the product to be short or the same as the original content.
+7. You can also select for the price to be number only or the same as the original content
+
+
+Screen Shots of the program:
+
+Export to CSV
+https://photos.app.goo.gl/GTYqeQPyUo52FDndA
+
+Export to Excel
+https://photos.app.goo.gl/YRP5b1h9eSzS1NDT6
+
+Export to HTML
+https://photos.app.goo.gl/XCeMhjSKu8GDYxpf9
