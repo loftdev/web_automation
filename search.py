@@ -9,7 +9,6 @@ sort = input('Sorting By: '
              '"h" for expensive, '
              '"s" for standard: ').lower()
 number_of_items = int(input("Enter the number of items from 1-40: "))
-
 driver = webdriver.Chrome(executable_path="/Users/loftymier/PycharmProjects/web_automation/chromedriver")
 driver.get('https://www.rakuten.co.jp')
 

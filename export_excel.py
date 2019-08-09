@@ -3,7 +3,6 @@ from result import Result
 from search import sort
 
 
-
 class ExportExcel:
     def standard(self):
         pd.DataFrame.from_dict(Result().standard()).to_excel('product_info.xls')
