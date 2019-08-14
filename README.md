@@ -14,13 +14,15 @@ Instruction
 7. You can also select for the price to be number only or the same as the original content
 
 
-Screen Shots of the program:
+# Screen Shots of the program:
 
 Export to CSV
-https://photos.app.goo.gl/GTYqeQPyUo52FDndA
+[export to csv video](https://photos.app.goo.gl/GTYqeQPyUo52FDndA)
+
 
 Export to Excel
-https://photos.app.goo.gl/YRP5b1h9eSzS1NDT6
+[Export to Excel video](https://photos.app.goo.gl/YRP5b1h9eSzS1NDT6)
 
 Export to HTML
-https://photos.app.goo.gl/XCeMhjSKu8GDYxpf9
+[export to Html video](https://photos.app.goo.gl/XCeMhjSKu8GDYxpf9)
+
