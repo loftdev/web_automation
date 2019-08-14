@@ -18,14 +18,14 @@ Instruction
 
 Export to CSV
 [demo video](https://photos.app.goo.gl/GTYqeQPyUo52FDndA)
-[sample result](https://github.com/loftdev/web_automation/blob/master/image/csv.png)
+![sample result](https://github.com/loftdev/web_automation/blob/master/image/csv.png)
 
 
 Export to Excel
 [demo video](https://photos.app.goo.gl/YRP5b1h9eSzS1NDT6)
-[sample result](https://github.com/loftdev/web_automation/blob/master/image/Excel.png)
+![sample result](https://github.com/loftdev/web_automation/blob/master/image/Excel.png)
 
 Export to HTML
 [demo video](https://photos.app.goo.gl/XCeMhjSKu8GDYxpf9)
-[sample result](https://github.com/loftdev/web_automation/blob/master/image/html.png)
+![sample result](https://github.com/loftdev/web_automation/blob/master/image/html.png)
 
