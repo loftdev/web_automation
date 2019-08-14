@@ -17,12 +17,15 @@ Instruction
 # Screen Shots of the program:
 
 Export to CSV
-[export to csv video](https://photos.app.goo.gl/GTYqeQPyUo52FDndA)
+[demo video](https://photos.app.goo.gl/GTYqeQPyUo52FDndA)
+[sample result](https://github.com/loftdev/web_automation/blob/master/image/csv.png)
 
 
 Export to Excel
-[Export to Excel video](https://photos.app.goo.gl/YRP5b1h9eSzS1NDT6)
+[demo video](https://photos.app.goo.gl/YRP5b1h9eSzS1NDT6)
+[sample result](https://github.com/loftdev/web_automation/blob/master/image/Excel.png)
 
 Export to HTML
-[export to Html video](https://photos.app.goo.gl/XCeMhjSKu8GDYxpf9)
+[demo video](https://photos.app.goo.gl/XCeMhjSKu8GDYxpf9)
+[sample result](https://github.com/loftdev/web_automation/blob/master/image/html.png)
 
