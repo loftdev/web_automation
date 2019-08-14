@@ -18,6 +18,7 @@ Instruction
 
 Export to CSV
 [demo video](https://photos.app.goo.gl/GTYqeQPyUo52FDndA)
+
 ![sample result](https://github.com/loftdev/web_automation/blob/master/image/csv.png)
 
 
