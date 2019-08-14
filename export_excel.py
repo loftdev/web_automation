@@ -5,16 +5,16 @@ from search import sort
 
 class ExportExcel:
     def standard(self):
-        pd.DataFrame.from_dict(Result().standard()).to_excel('product_info.xls')
+        pd.DataFrame.from_dict(Result().standard()).to_excel('exported_folder/product_info.xls')
 
     def review(self):
-        pd.DataFrame.from_dict(Result().review()).to_excel('product_info.xls')
+        pd.DataFrame.from_dict(Result().review()).to_excel('exported_folder/product_info.xls')
 
     def cheap(self):
-        pd.DataFrame.from_dict(Result().cheap()).to_excel('product_info.xls')
+        pd.DataFrame.from_dict(Result().cheap()).to_excel('exported_folder/product_info.xls')
 
     def expensive(self):
-        pd.DataFrame.from_dict(Result().expensive()).to_excel('product_info.xls')
+        pd.DataFrame.from_dict(Result().expensive()).to_excel('exported_folder/product_info.xls')
 
 
 def excel_call():

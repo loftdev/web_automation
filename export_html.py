@@ -73,7 +73,7 @@ def html_call():
 
 
 def convert_to_html(x):
-    f = open("search_result.html", "w")
+    f = open("exported_folder/search_result.html", "w")
 
     f.write(x)
     f.close()

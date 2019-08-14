@@ -5,16 +5,16 @@ from search import sort
 
 class ExportCsv:
     def standard(self):
-        pd.DataFrame.from_dict(Result().standard()).to_csv('product_info.csv')
+        pd.DataFrame.from_dict(Result().standard()).to_csv('exported_folder/product_info.csv')
 
     def review(self):
-        pd.DataFrame.from_dict(Result().review()).to_csv('product_info.csv')
+        pd.DataFrame.from_dict(Result().review()).to_csv('exported_folder/product_info.csv')
 
     def cheap(self):
-        pd.DataFrame.from_dict(Result().cheap()).to_csv('product_info.csv')
+        pd.DataFrame.from_dict(Result().cheap()).to_csv('exported_folder/product_info.csv')
 
     def expensive(self):
-        pd.DataFrame.from_dict(Result().expensive()).to_csv('product_info.csv')
+        pd.DataFrame.from_dict(Result().expensive()).to_csv('exported_folder/product_info.csv')
 
 
 def csv_call():
